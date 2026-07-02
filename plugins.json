@@ -916,6 +916,14 @@
         "source_code_url": "https://github.com/moddevices/mod-cv-plugins",
         "donate_url": null
     },
+    "parkinsound-stepgate.lv2": {
+        "source_code_url": "https://github.com/pilali/Parkinsound",
+        "donate_url": null
+    },
+    "parkinsound-stepgate4.lv2": {
+        "source_code_url": "https://github.com/pilali/Parkinsound",
+        "donate_url": null
+    },
     "profiler.lv2": {
         "source_code_url": "https://github.com/micahvdm/profiler",
         "donate_url": null
